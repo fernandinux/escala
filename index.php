@@ -68,7 +68,6 @@
 
     </nav>
     <!--/.Navbar-->
-  <div class="container py-5 my-5">
         <!--Section: Content-->
           <section class="px-md-5 mx-md-5 text-center text-lg-left dark-grey-text">
 
@@ -338,8 +337,7 @@
               </div>
             </div>
           </section>
-      <!--Section: Testimonios-->
-      <div class="container z-depth-1 my-5">
+      <!--Section: Testimonios-->      
 
           <section class="text-center py-5">
 
@@ -556,8 +554,6 @@
               </div>
             </div>
           </section>
-
-      </div>
       <!-- nuestro equipo -->
       <!-- porque escala -->
         <section class="p-md-3 mx-md-5 text-lg-left">
@@ -605,7 +601,7 @@
           </div>
         </section>
         <!-- porque escala -->
-  </div>
+ 
         <!--Section: Directorio y Asesores-->
         <section class="team-section text-center dark-grey-text">
 
