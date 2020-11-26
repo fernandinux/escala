@@ -640,7 +640,7 @@
             <!-- Grid column -->
             <div class="col-md-4 mb-4">
               <div class="avatar mx-auto">
-                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(27).jpg" class="rounded z-depth-1-half" alt="Sample avatar">
+                <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="rounded z-depth-1-half" alt="Sample avatar">
               </div>
               <h4 class="font-weight-bold dark-grey-text my-4">John Doe</h4>
               <h6 class="text-uppercase grey-text mb-3"><strong>Front-end Developer</strong></h6>
