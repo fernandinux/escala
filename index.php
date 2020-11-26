@@ -8,7 +8,7 @@
       <div class="container"> 
 
         <a class="navbar-brand" href="#">
-          <img src="/img/escala1.jpg" height="30" alt="escala logo">
+          <img src="https://chispapublicidad.com/wp-content/uploads/2020/11/escala1.jpg" height="30" alt="escala logo">
         </a>
 
         <!-- Collapse button -->
