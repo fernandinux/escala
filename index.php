@@ -8,7 +8,7 @@
       <div class="container"> 
 
         <a class="navbar-brand" href="#">
-          <img src="https://mdbootstrap.com/img/logo/mdb-transparent.png" height="30" alt="mdb logo">
+          <img src="/img/escala1.jpg" height="30" alt="escala logo">
         </a>
 
         <!-- Collapse button -->
@@ -23,16 +23,16 @@
           <!-- Left -->
           <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/jquery/" target="_blank">jQuery</a>
+              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/jquery/" target="_blank">¿Quiénes somos?</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/angular/" target="_blank">Angular</a>
+              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/angular/" target="_blank">Clientes</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/react/" target="_blank">React</a>
+              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/react/" target="_blank">Servicios</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/vue/" target="_blank">Vue</a>
+              <a class="nav-link waves-effect" href="https://mdbootstrap.com/docs/vue/" target="_blank">Contacto</a>
             </li>
           </ul>
 
