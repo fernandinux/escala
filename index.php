@@ -77,7 +77,7 @@
               <!--Grid column-->
               <div class="col-lg-8 text-center">
 
-                <h3 class="font-weight-bold mb-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h3>
+                <h3 class="font-weight-bold mb-4">Somos generadores de oportunidades</h3>
 
                 <!--Image-->
                 <div class="view overlay z-depth-1-half">
@@ -99,28 +99,28 @@
           <!--Section: Content-->
           <!--Section: Feature-->
           <section class="p-md-3 mx-md-5 text-lg-left">
-            <h2 class="font-weight-bold text-center mb-5 pb-3">Features</h2>
+            <h2 class="font-weight-bold text-center mb-5 pb-3">¿Por qué somos diferentes?</h2>
             <div class="row text-center d-flex justify-content-center">
               
               <div class="col-lg-4 col-md-6 mb-lg-0 mb-5">
                 <i class="fas fa-map-marker-alt fa-3x indigo-text mb-4"></i>
-                <h4 class="font-weight-bold mb-4">Feature 1</h4>
+                <h4 class="font-weight-bold mb-4">Aplicamos lo que decimos</h4>
                 <p class="text-muted px-2 mb-lg-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                   Liderados por emprendedores digitales ganadores de Start-Up y que venden en más de 3 países
                 </p>
               </div>
               <div class="col-lg-4 col-md-6 mb-lg-0 mb-5">
                 <i class="far fa-map pink-text fa-3x mb-4"></i>
-                <h4 class="font-weight-bold mb-4">Feature 2</h4>
+                <h4 class="font-weight-bold mb-4">Enfocados en crecimiento y valor</h4>
                 <p class="text-muted px-2 mb-lg-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Dejamos el chamullo y la complicación detrás, si no aporta valor, no se hace
                 </p>
               </div>
               <div class="col-lg-4 col-md-6 mb-md-0 mb-5">
                 <i class="fas fa-globe-africa fa-3x amber-text mb-4"></i>
-                <h4 class="font-weight-bold mb-4">Feature 3</h4>
+                <h4 class="font-weight-bold mb-4">Te transferimos el know-how</h4>
                 <p class="text-muted px-2 mb-md-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  No buscamos hacerte dependiente de nosotros, por eso construimos capacidad en tu organización
                 </p>
               </div>
             
@@ -135,15 +135,13 @@
               <!--Grid column-->
               <div class="col-xl-6 col-md-8">
 
-                <h3 class="font-weight-bold">Call to action</h3>
+                <h3 class="font-weight-bold">Sabemos que eres único</h3>
 
-                <p class="text-muted">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Id quam sapiente
-                  molestiae
-                  numquam quas, voluptates omnis nulla ea odio.</p>
+                <p class="text-muted">Por eso queremos conocerte y que tú mism@ seas quien elija</p>
 
-                <a class="btn btn-info btn-md ml-0 mb-5" href="#" role="button">Start now<i class="fa fa-magic ml-2"></i></a>
+                <a class="btn btn-info btn-md ml-0 mb-5" href="#" role="button">Contactanos<i class="fa fa-magic ml-2"></i></a>
 
-                <p class="mb-4 font-weight-bold">Trusted by 1 000 000 + developers &amp; designers</p>
+                <p class="mb-4 font-weight-bold">No nos creas a nosotros, sino a las docenas de empresas que siguen trabajando con nosotros, entre ellas:</p>
 
                 <!--Grid row-->
                 <div class="row">
@@ -227,7 +225,7 @@
                 </div>
                 <!--/Grid row-->
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem minima cum sapiente alias iste expedita saepe explicabo illum ab, reiciendis aliquid nulla temporibus mollitia quae beatae harum sequi quidem ad.</p>
+                <p>Nos apasiona ayudar a que los negocios crezcan y aprovechen nuevos modelos de negocio, tecnologías y mercados.</p>
 
               </div>
               <!--Grid column-->
@@ -242,31 +240,28 @@
           <!--Section: Content3-->
           <section class="p-md-3 mx-md-5 text-lg-left">
               <div class="row d-flex justify-content-center">
-              <h2 class="font-weight-bold pb-4">Features</h2>
+              <h2 class="font-weight-bold pb-4">Sectores de Especialidad</h2>
               </div>
               <div class="row text-center d-flex justify-content-center mt-4">
               <div class="col-lg-4 col-md-6 mb-5">
                   <i class="far fa-chart-bar indigo-text fa-3x mb-4"></i>
-                  <h4 class="font-weight-bold mb-4">Feature 1</h4>
+                  <h4 class="font-weight-bold mb-4">Educación</h4>
                   <p class="text-muted px-2 mb-lg-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Hemos trabajado con +20 instituciones como universidades, asociaciones profesionales, centros de capacitación y organizadores de congresos.
                   </p>
               </div>
               <div class="col-lg-4 col-md-6 mb-5">
                   <i class="fa fa-home pink-text fa-3x mb-4"></i>
-                  <h4 class="font-weight-bold mb-4">Feature 2</h4>
+                  <h4 class="font-weight-bold mb-4">Salud y Wellness</h4>
                   <p class="text-muted px-2 mb-lg-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Hemos ayudado a la transformación digital y creación de nuevos servicios de salud basados en salud en +10 organizaciones.
                   </p>
               </div>
               <div class="col-lg-4 col-md-6 mb-5">
                   <i class="fa fa-plane blue-text fa-3x mb-4"></i>
-                  <h4 class="font-weight-bold mb-4">Feature 3</h4>
+                  <h4 class="font-weight-bold mb-4">E-commerce</h4>
                   <p class="text-muted px-2 mb-md-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Hemos desarrollando y personalizado plataformas e-commerce que aseguren procesos confiables y niveles de atención que acompañen crecimiento escalable.
                   </p>
               </div>
               </div>
@@ -275,7 +270,7 @@
           <!--Section: Testimonios-->
           <section class="p-md-5 mx-md-5 text-center text-lg-left">
             <div class="row text-center py-4">
-              <h2 class="font-weight-bold mx-auto">Testimonials</h2>
+              <h2 class="font-weight-bold mx-auto">Testimonios</h2>
             </div>
             <div class="row text-center d-flex align-items-between">
               <div class="col-lg-4 mb-2 d-flex flex-column justify-content-between">
@@ -292,8 +287,8 @@
                       alt="woman avatar"
                     />
                   </div>
-                  <h4 class="font-weight-bold mt-3 pb-1">Anna Smith</h4>
-                  <p class="font-weight-bold text-muted">Product Manager</p>
+                  <h4 class="font-weight-bold mt-3 pb-1">Giancarlo</h4>
+                  <p class="font-weight-bold text-muted">Gerente Comercial - B2B Nights</p>
                 </div>
               </div>
               <div class="col-lg-4 mb-2 d-flex flex-column justify-content-between">
@@ -312,8 +307,8 @@
                       alt="woman avatar"
                     />
                   </div>
-                  <h4 class="font-weight-bold mt-3 pb-1">Tom Johnson</h4>
-                  <p class="font-weight-bold text-muted">Designer</p>
+                  <h4 class="font-weight-bold mt-3 pb-1">Ariel Alba</h4>
+                  <p class="font-weight-bold text-muted">Gerente Financiero - QLU University</p>
                 </div>
               </div>
               <div class="col-lg-4 mb-2 d-flex flex-column justify-content-between">
@@ -331,8 +326,8 @@
                       alt="woman avatar"
                     />
                   </div>
-                  <h4 class="font-weight-bold mt-3 pb-1">Lara Croft</h4>
-                  <p class="font-weight-bold text-muted">Frontend Developer</p>
+                  <h4 class="font-weight-bold mt-3 pb-1">Herbert Lázaro</h4>
+                  <p class="font-weight-bold text-muted">Gerente General - Instituto Médico de la Mujer</p>
                 </div>
               </div>
             </div>
@@ -341,7 +336,7 @@
 
           <section class="text-center py-5">
 
-            <p class="mb-4 pb-2 lead font-weight-bold">Trusted by 1 000 000 + developers &amp; designers</p>
+            <p class="mb-4 pb-2 lead font-weight-bold">Hemos sido reconocidos en diversas competencias, programas de incubación y en la prensa: </p>
 
             <!-- Logo carousel -->
             <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel" data-interval="1800">
@@ -456,7 +451,7 @@
 
           <!-- nuestro equipo -->
           <section class="p-md-3 mx-md-5 text-center text-lg-left">
-            <h2 class="text-center mx-auto font-weight-bold mb-4 pb-2">Our Team</h2>
+            <h2 class="text-center mx-auto font-weight-bold mb-4 pb-2">Nuestro Equipo</h2>
             <div class="row">
               <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
                 <div class="p-4">
@@ -469,14 +464,11 @@
                     />
                   </div>
                   <div class="text-center mt-3">
-                    <h6 class="font-weight-bold pt-2">Alan Turing</h6>
+                    <h6 class="font-weight-bold pt-2">Lourdes Uzuriaga</h6>
                     <p class="text-muted">
-                      <small
-                        ><i
-                          >Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit.</i
-                        ></small
-                      >
+                      <small>
+                        <i>Co-fundadora | Emprendedora Start-Up Chile | Emprendedora Serial | Docente PUCP</i>
+                      </small>
                     </p>
                   </div>
                 </div>
@@ -493,14 +485,11 @@
                     />
                   </div>
                   <div class="text-center mt-3">
-                    <h6 class="font-weight-bold pt-2">Nathalie Fry</h6>
+                    <h6 class="font-weight-bold pt-2">Fernando Pareja</h6>
                     <p class="text-muted">
-                      <small
-                        ><i
-                          >Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit.</i
-                        ></small
-                      >
+                      <small>
+                        <i>Co-fundador |  Shopify & Google Expert | ex-Gerente Tecnología I Ingeniero UNI</i>
+                      </small>
                     </p>
                   </div>
                 </div>
@@ -517,12 +506,11 @@
                     />
                   </div>
                   <div class="text-center mt-3">
-                    <h6 class="font-weight-bold pt-2">Billy Turner</h6>
+                    <h6 class="font-weight-bold pt-2">Joel Eche</h6>
                     <p class="text-muted">
                       <small
                         ><i
-                          >Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit.</i
+                          >Developer</i
                         ></small
                       >
                     </p>
@@ -540,12 +528,11 @@
                     />
                   </div>
                   <div class="text-center mt-3">
-                    <h6 class="font-weight-bold pt-2">Veronica Smith</h6>
+                    <h6 class="font-weight-bold pt-2">Nicolle Quispe</h6>
                     <p class="text-muted">
                       <small
                         ><i
-                          >Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit.</i
+                          >Developer</i
                         ></small
                       >
                     </p>
@@ -559,7 +546,7 @@
         <section class="p-md-3 mx-md-5 text-lg-left">
           <div class="row">
             <div class="col-12">
-              <h2 class="font-weight-bold mb-3">Features</h2>
+              <h2 class="font-weight-bold mb-3">Porque la ESCALA se logra con tecnología</h2>
               <p class="lead py-3">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -568,7 +555,7 @@
                 in reprehenderit in voluptate velit esse cillum dolore eu
                 fugiat.
               </p>
-              <a class="blue-text font-weight-bold" href="#">Learn more 
+              <a class="blue-text font-weight-bold" href="#">Leer más
                 <i class="fa fa-chevron-right pl-1"></i>
               </a>
             </div>
@@ -606,7 +593,7 @@
         <section class="team-section text-center dark-grey-text">
 
           <!-- Section heading -->
-          <h3 class="font-weight-bold pb-2 mb-4">Our amazing team</h3>
+          <h3 class="font-weight-bold pb-2 mb-4">Directorio y Asesores</h3>
           <!-- Section description -->
           <p class="text-muted w-responsive mx-auto mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
             Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam
@@ -620,8 +607,8 @@
               <div class="avatar mx-auto">
                 <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="rounded z-depth-1-half" alt="Sample avatar">
               </div>
-              <h4 class="font-weight-bold dark-grey-text my-4">Maria Kate</h4>
-              <h6 class="text-uppercase grey-text mb-3"><strong>Photographer</strong></h6>
+              <h4 class="font-weight-bold dark-grey-text my-4">Raul Diaz Diaz</h4>
+              <h6 class="text-uppercase grey-text mb-3"><strong>Gerente General - Aeropuertos Andinos del Perú | ex-Gerente Financiero Kallpa Perú y Merck Sharp & Dohme</strong></h6>
               <!-- Facebook-->
               <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-fb">
                 <i class="fab fa-facebook-f"></i>
@@ -642,8 +629,8 @@
               <div class="avatar mx-auto">
                 <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="rounded z-depth-1-half" alt="Sample avatar">
               </div>
-              <h4 class="font-weight-bold dark-grey-text my-4">John Doe</h4>
-              <h6 class="text-uppercase grey-text mb-3"><strong>Front-end Developer</strong></h6>
+              <h4 class="font-weight-bold dark-grey-text my-4">Roberto Persivale</h4>
+              <h6 class="text-uppercase grey-text mb-3"><strong>Inversor | Fundador e-Health LATAM Hub | accionista Rappi | ex-Gerente Jockey Plaza y Hoteles Sonesta</strong></h6>
               <!--Email-->
               <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-email">
                 <i class="fas fa-envelope"></i>
@@ -664,8 +651,8 @@
               <div class="avatar mx-auto">
                 <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(31).jpg" class="rounded z-depth-1-half" alt="Sample avatar">
               </div>
-              <h4 class="font-weight-bold dark-grey-text my-4">Sarah Melyah</h4>
-              <h6 class="text-uppercase grey-text mb-3"><strong>Web Developer</strong></h6>
+              <h4 class="font-weight-bold dark-grey-text my-4">David Cabrera</h4>
+              <h6 class="text-uppercase grey-text mb-3"><strong>HR Head LATAM - Maersk | ex-HR Head Dell</strong></h6>
               <!--Linkedin -->
               <a type="button" class="btn-floating btn-sm mx-1 mb-0 btn-li">
                 <i class="fab fa-linkedin-in "></i>
@@ -693,7 +680,7 @@
           <div class="rgba-black-strong rounded p-5">
 
             <!-- Section heading -->
-            <h3 class="text-center font-weight-bold text-white mt-3 mb-5">Contact Us</h3>
+            <h3 class="text-center font-weight-bold text-white mt-3 mb-5">Contáctanos</h3>
 
             <form class="mx-md-5" action="">
 
